@@ -2,9 +2,12 @@
 
 ## Instructions
 
-1. **Fork this repository** to your GitHub account.
-2. Complete the tasks outlined below, each in its own file.
-3. Push your code to your forked repository.
-4. Submit a pull request to this repository with your completed assessment.
-5. Include a README file with any additional notes or instructions on how to run your code.
+1. Download and Unzip: Download all the files as a ZIP archive and extract the contents.
 
+2. Select the Task: Choose the task folder you wish to view.
+
+3. Open the HTML File: Open the HTML file in the chosen folder. If prompted to select a program, use a web browser.
+
+4. Enjoy the Created Page: Explore and enjoy the webpage created for the corresponding task.
+
+5. :)
